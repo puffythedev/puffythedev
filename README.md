@@ -1,16 +1,25 @@
 ### Hi there 👋
+# Youssef Gamal Wahba 
 
-<!--
-**NicknameOPG/NicknameOPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there, I'm Youssef, a 19 year old software developer from the Egypt.
 
-Here are some ideas to get you started:
+# Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+<p align="center">
+    <a href="https://github.com/NicknameOPG/">
+        <img src="https://github-readme-stats.vercel.app/api?username=YoussefWahba0&hide=issues,prs&count_private=true&show_owner=true&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+    </a>
+    <a href="https://github.com/NicknameOPG/">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefWahba0&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=00ff99&hide_border=true/" />
+    </a>
+    <a href="https://github.com/NicknameOPG/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=YoussefWahba0&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=00ff99&ring=00ff99&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+    </a>
+   <a href="https://github.com/NicknameOPG"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YoussefWahba0&bg_color=0D1117&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true" />
+    </a>
+</p>
+
+---
+
+![Snake animation](https://github.com/NicknameOPG/NicknameOPG/blob/output/github-contribution-grid-snake.svg)
