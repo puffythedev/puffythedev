@@ -8,4 +8,7 @@ Hi! i am nicknameOPG, the abnormal coder!
 - NodeJS 
 - python 
 - SQL and more!
+# top languages
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicknameOPG)](https://github.com/anuraghazra/github-readme-stats)
