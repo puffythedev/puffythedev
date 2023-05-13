@@ -1,5 +1,5 @@
-# hi!
-Hi! i am nicknameOPG, the abnormal coder!
+# SkyOPG
+- have you seen anyone that breaks code in 5 seconds, it's me!
 # about
 - name: mohammad
 - age: 15 
