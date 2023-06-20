@@ -5,7 +5,10 @@
 - age: 15 
 - location: morocco
 # languages
-- NodeJS 
+- NodeJS
+- C
+- C++
+- Assembly x86 (noob)
 - python 
 - SQL and more!
 # top languages
