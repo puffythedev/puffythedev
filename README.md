@@ -1,7 +1,7 @@
 # SkyOPG
-- have you seen anyone that breaks code in less than 5 seconds, it's me!
+- have you seen anyone that breaks any possible type of code in less than 5 seconds, it's me!
 # about
-- name: mohammad
+- name: sky
 - age: 15 
 - location: morocco
 # languages
