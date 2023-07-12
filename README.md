@@ -13,5 +13,6 @@
 - SQL and more!
 # Shoutout
 - [MinecraftHello7](https://github.com/Minecrafthello7)
+- [TacoDark](https://github.com/TacoDark)
 # top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyOPG&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
