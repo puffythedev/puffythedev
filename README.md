@@ -6,9 +6,10 @@
 - location: morocco
 # languages
 - NodeJS
+- typescript
 - C
 - C++
-- Assembly x86 (noob)
+- Assembly x86
 - python 
 - SQL and more!
 # Shoutout
