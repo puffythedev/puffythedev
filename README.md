@@ -13,7 +13,6 @@
 - python 
 - SQL and more!
 # Shoutout
-- [MinecraftHello7](https://github.com/Minecrafthello7)
 - [TacoDark](https://github.com/TacoDark)
 # Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=SkyOPG&theme=onedark&hide_border=true)](https://git.io/streak-stats)
