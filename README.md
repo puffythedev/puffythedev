@@ -1,15 +1,16 @@
 # ⛅ SkyOPG
 - 💣 have you seen anyone that breaks any possible type of code in less than 5 seconds? it's me!
 # 🙃 about
-- ♂️ name: sky
-- 📏 age: 15 
-- 🌍 location: morocco
+- ♂️ Name: Sky (or amine)
+- 📏 Age: 16
+- 🌍 Residence: Morocco
+- 💼 Company: webwise
 # 💻 languages
 - 🟩 NodeJS
-- 🟦 typescript
+- 🟦 Typescript
 - 🔷 C/C++
-- 🔢 Assembly x86
-- 🐍 python 
+- 🔢 16 bit Assembly
+- 🐍 Python 
 - 🧵 SQL and more!
 # 🔥 Shoutout
 - 🌮 [TacoDark](https://github.com/TacoDark)
